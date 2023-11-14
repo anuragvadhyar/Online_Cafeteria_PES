@@ -43,6 +43,7 @@ if (isset($_POST['SRN'], $_POST['password'])) {
 <html>
 <head>
     <title>Delete User</title>
+    <link rel="stylesheet" href="delete_user.css">
 </head>
 <body style="text-align: center; font-family: Arial, sans-serif; background-color: pink;">
     <h2>Delete User</h2>

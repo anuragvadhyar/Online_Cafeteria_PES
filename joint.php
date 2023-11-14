@@ -2,34 +2,7 @@
 <html>
 <head>
     <title>Joint Table</title>
-    <style>
-        body {
-            text-align: center;
-            font-family: Arial, sans-serif;
-            background-color: pink;
-        }
-
-        table {
-            width: 50%;
-            margin: auto;
-            background-color: blue;
-            color: white;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-
-        th, td {
-            padding: 10px;
-            border: 1px solid white;
-        }
-
-        .no-feedback {
-            color: blue;
-            font-size: 48px; /* Enlarged font size */
-            text-transform: uppercase; /* Convert to uppercase */
-            margin-top: 50vh; /* Centered in the middle of the screen */
-        }
-    </style>
+    <link rel="stylesheet" href="joint.css">
 </head>
 <body>
     <?php

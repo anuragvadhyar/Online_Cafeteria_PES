@@ -2,28 +2,7 @@
 <html>
 <head>
     <title>User Accounts</title>
-    <style>
-        body {
-            text-align: center;
-            font-family: Arial, sans-serif;
-            background-color: pink;
-        }
-        table {
-            margin: 0 auto;
-            border-collapse: collapse;
-            width: 50%;
-            background-color: #3498db; /* Blue background for the table */
-        }
-        th, td {
-            padding: 8px;
-            text-align: center;
-            border: 1px solid #dddddd;
-            color: white; /* Text color for contrast */
-        }
-        th {
-            background-color: #2980b9; /* Slightly darker blue for headers */
-        }
-    </style>
+    <link rel="stylesheet" href="account.css">
 </head>
 <body>
     <h1>User Accounts</h1>

@@ -5,15 +5,7 @@
 <html>
 <head>
     <title>Select Your Items</title>
-    <style>
-        /* Style for the snack and dessert sections */
-        .section {
-            display: none;
-        }
-        .active {
-            display: block;
-        }
-    </style>
+    <link rel="stylesheet" href="main.css">
 </head>
 <body>
     <h1>Select Your Items</h1>
