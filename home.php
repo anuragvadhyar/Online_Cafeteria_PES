@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Welcome to PES Cafeteria</title>
+    <link rel="stylesheet" href="home.css">
 </head>
 <body style="text-align: center; font-family: Arial, sans-serif; background-color: pink;">
     <h1 style="color: #8E44AD; font-family: 'Times New Roman', Times, serif;">WELCOME TO PES CAFETERIA!</h1>

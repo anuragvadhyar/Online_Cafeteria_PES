@@ -34,6 +34,7 @@ $conn->close();
 <html>
 <head>
     <title>Feedback</title>
+    <link rel="stylesheet" href="feedback.css">
 </head>
 <body>
     <h1>Feedback</h1>

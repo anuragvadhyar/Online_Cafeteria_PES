@@ -1,0 +1,41 @@
+/* home.css */
+
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #FFA07A; /* Light Salmon - background color */
+}
+
+h1 {
+    color: #0074cc; /* Blue - heading color */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button[name="login"] {
+    background-color: #0074cc; /* Blue - login button color */
+    color: white;
+}
+
+button[name="register"] {
+    background-color: #FFA07A; /* Light Salmon - register button color */
+    color: white;
+}
+
+button[name="menu"],
+button[name="viewAccount"],
+button[name="updatePassword"],
+button[name="deleteUser"],
+button[name="viewFeedback"],
+button[name="viewRevenue"] {
+    background-color: #0074cc; /* Blue - common button color */
+    color: white;
+}
