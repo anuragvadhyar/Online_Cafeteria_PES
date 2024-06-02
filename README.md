@@ -6,16 +6,16 @@ The admin is able to manage user accounts, replenish inventory.
 
 Both the user and admin have seperate login pages.
 
-# DATABASE
-SQL
-
-# FRAMEWORKS
-XAMPP
-
-# FRONTEND
-HTML
-
-# BACKEND
-PHP
+  # DATABASE
+  SQL
+  
+  # FRAMEWORKS
+  XAMPP
+  
+  # FRONTEND
+  HTML
+  
+  # BACKEND
+  PHP
 
 
